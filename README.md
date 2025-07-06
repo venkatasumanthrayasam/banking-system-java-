@@ -71,13 +71,13 @@ java BankManagementApp
 6. Exit
 Enter your choice: 1
 
-Enter account holder name: Alice.
-Enter initial deposit: 1000 .
+Enter account holder name: Alice <br>
+Enter initial deposit: 1000 <br>
 Account created! Account Number: 1001
 
 ## 👨‍💻 Author
-Venkata Sumanth Rayasam.
-Check out my [LinkedIn](https://linkedin.com/in/rvsumanth)
+Venkata Sumanth Rayasam<br>
+Check out my [LinkedIn](https://linkedin.com/in/rvsumanth)<br>
 Mail to me : venkatasumanthrayasam@gmail.com
 
 ## 📃 License
