@@ -81,7 +81,7 @@ Check out my [LinkedIn](https://linkedin.com/in/rvsumanth)<br>
 Mail to me : venkatasumanthrayasam@gmail.com
 
 ## 📃 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## 🙌 Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
