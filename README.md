@@ -75,13 +75,13 @@ Enter account holder name: Alice
 Enter initial deposit: 1000
 Account created! Account Number: 1001
 
-👨‍💻 Author
+##👨‍💻 Author
 Venkata Sumanth Rayasam
 GitHub
 LinkedIn
 
-📃 License
+##📃 License
 This project is licensed under the MIT License.
 
-🙌 Contributions
+##🙌 Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
