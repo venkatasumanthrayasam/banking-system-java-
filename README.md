@@ -77,8 +77,7 @@ Account created! Account Number: 1001
 
 ## 👨‍💻 Author
 Venkata Sumanth Rayasam
-GitHub
-LinkedIn
+Check out my [LinkedIn](https://linkedin/in/rvsumanth)
 
 ## 📃 License
 This project is licensed under the MIT License.
